@@ -5,3 +5,5 @@ The python file had been considered as a whole, and I wanted to upload that "one
 Three files are provided for question 1: "Part 1", "Part 2", and "Part 3 and Optimizers"
 Also for question 2, a python file is uploaded here.
 For question 3, I uploaded a Pdf file.
+
+Also, for "Assignment3,Questions1_Part3&Optimizers.ipynb", there is not an error. I, intentionally, interrupted the training process, as I realized I had the screenshots, so there is no need to take the runs again.
